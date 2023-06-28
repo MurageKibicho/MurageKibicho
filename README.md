@@ -1,5 +1,5 @@
 ### Murage Kibicho (He/Him/His) 👋
-### Hello, my name is Murage Kibicho. I am a Statistics major interested in computer graphics. When I'm not coding you'll find me running at the Payne Whitney track or completing a Duolingo lesson while cycling at the gym. Lol I spent 3 years of my Yale education trying to major in Chinese and Hebrew. My favorite programming languages are shown below.
+### Hello, my name is Murage Kibicho. I am a Stats major but I like webdev. Run `npx create-new-startup Murage` 
 [![Kibicho's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MurageKibicho&theme=gradient&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MurageKibicho/MurageKibicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
